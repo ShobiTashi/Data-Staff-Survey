@@ -23,7 +23,7 @@ This project explores a survey of Data-related jobs. It covers salaries, job sat
 
 ## 🔍 Analysis Overview and Key Visuals
 
-### 1. Count of SSurvey Takers
+### 1. Count of Survey Takers
 - 630
 
 ### 2. Job Titles and Average Salary
