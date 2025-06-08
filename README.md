@@ -1,5 +1,5 @@
 # Overview
-This project explores a survey of Data related jobs. It covers salaries, job satisfaction scores, and programming languages. The analysis was performed entirely in **Power BI** using Power Query and other data cleaning functions
+This project explores a survey of Data-related jobs. It covers salaries, job satisfaction scores, and programming languages. The analysis was performed entirely in **Power BI** using Power Query and other data-cleaning functions
 
 ---
 
@@ -7,13 +7,13 @@ This project explores a survey of Data related jobs. It covers salaries, job sat
 
 - `Data_Staff_Survey.xlsx` – Raw Data Excel File
 - `Data_Staff_Survey.pbix` – Worksheet used
-- `README.md` – Project overview
+- `README.md` – Project Overview
 
 ---
 
 ## 📊 Tools Used
 
-- Powet BI
+- Power BI
 - DAX
 - Data Visualization
 - Power Query
@@ -21,43 +21,37 @@ This project explores a survey of Data related jobs. It covers salaries, job sat
 
 ---
 
-## 🔍 Analysis Overview
+## 🔍 Analysis Overview and Key Visuals
 
-### 1. Job Titles and Aaverage Salary
+### 1. Count of SSurvey Takers
+- 630
 
-- **Average and Maximum Price** by Make and Model
-- **Average Price by Fuel Type** (Electric, Hybrid, Petrol, Diesel)
+### 2. Job Titles and Average Salary
 
-### 2. Most Used Programming Language
+- Data Scientists had the highest salary
 
-- Price comparisons by **vehicle condition** (New, Like New, Used)
-- Evaluation of **accident history** impact on pricing
+### 3. Most Used Programming Language
 
-### 3. Country and Salary
+- The Most Used Language was Python
+- Data Analysts had the highest count of Python Users
 
-- Identification of **most common transmission and fuel types**
-- **Fuel type with the highest average price**
+### 4. Country and Salary
 
-### 4. Happiness in terms of Work-Life Balance
+- Most of the survey takers were from the United States
 
-- Most frequent **car makes and models**
-- **Most expensive make/model combinations** 
+### 5. Happiness in terms of Work-Life Balance
 
-### 5. Male vs Female Average Salary
+- An average of 5.74 people were happy in their current position
 
-- **If certain car colors sell more than others**
-- **The most common and least common car colors**
+### 6. Happiness in terms of Salary
 
----
+- An average of 4.27 people were happy with their current salary
 
-## 📈 Key Visuals
+### 7. Difficulty to Break Into Data
 
-The dashboard includes:
-
-- Interactive PivotTables
-- Charts
-- Slicers for filtering by fuel type, condition, and make and model
-
-> Note: Some features (e.g., slicers) may not be supported on mobile Excel apps.
-
+- 42.27% of people found it neither easy nor difficult to break into data
+- 24.76% of people found it difficult to break into data
+- 21.27% of people found it easy to break into data
+- 6.98% of people found it very difficult to break into data
+- 4.29% of people found it very easy to break into data
 ---
